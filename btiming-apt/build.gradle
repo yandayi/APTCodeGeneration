@@ -1,6 +1,8 @@
 plugins {
     id 'java-library'
+    id 'com.github.dcendents.android-maven'
 }
+group='com.github.ytf12138'
 
 java {
     sourceCompatibility = JavaVersion.VERSION_1_7
